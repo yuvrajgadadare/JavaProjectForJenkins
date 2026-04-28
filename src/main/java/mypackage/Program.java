@@ -6,7 +6,7 @@ public class Program {
 		System.out.println("Hi Hello");
 	}
 	public void Sub() {
-		System.out.println(Hi Hello);
+		System.out.println("Hi Hello");
 	}
 	public static void main(String[] args) {
 
